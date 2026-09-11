@@ -1,0 +1,5 @@
+ProductA 120
+ProductB 80
+ProductC 150
+ProductA 200
+ProductB 90

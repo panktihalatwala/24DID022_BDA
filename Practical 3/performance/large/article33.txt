@@ -1,0 +1,3 @@
+Hadoop is a powerful big data technology.
+Hadoop provides distributed storage and distributed processing.
+Big data analytics helps organizations understand trends.
