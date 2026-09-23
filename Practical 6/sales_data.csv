@@ -1,0 +1,16 @@
+OrderID,Product,Category,Quantity,Price,City,Sale_Date
+1001,Laptop,Electronics,2,55000,Ahmedabad,2026-01-05
+1002,Mobile,Electronics,5,22000,Surat,2026-01-08
+1003,Shirt,Fashion,8,1200,Vadodara,2026-01-12
+1004,Shoes,Fashion,4,2500,Ahmedabad,2026-01-15
+1005,Rice Cooker,Home Appliances,3,3200,Mumbai,2026-01-20
+1006,Headphones,Electronics,6,1800,Surat,2026-02-02
+1007,Jeans,Fashion,5,2000,Mumbai,2026-02-07
+1008,Mixer,Home Appliances,2,4500,Ahmedabad,2026-02-11
+1009,Laptop,Electronics,1,55000,Vadodara,2026-02-18
+1010,T-Shirt,Fashion,10,900,Surat,2026-02-23
+1011,AC,Home Appliances,2,42000,Mumbai,2026-03-03
+1012,Mobile,Electronics,3,22000,Ahmedabad,2026-03-06
+1013,Jacket,Fashion,4,3500,Vadodara,2026-03-10
+1014,Vacuum Cleaner,Home Appliances,2,7000,Surat,2026-03-15
+1015,Laptop,Electronics,3,55000,Mumbai,2026-03-18
